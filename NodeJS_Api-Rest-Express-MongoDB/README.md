@@ -45,7 +45,7 @@ Algumas dessas bibliotecas são desenvolvidas por times para resolver algum prob
 | install | i | Instala um novo módulo |
 | list | ls | Lista os módulos instalados |
 | test | t | Executa o script de teste especificado no package.json |
-| --global | -g | Usado como um sinalizador para instalar um pacote globalmente (não só na pasta do projeto)|
+| --global | -g | Usado como um sinalizador para instalar um pacote globalmente (não só na pasta do projeto) |
 | --save | -S | Salva o módulo ao instalar |
 | --save-exact | -E | Salva o módulo ao instalar, porém na versão exata mencionada |
 | --save-dev | -D | Salva o módulo ao instalar, porém como uma dependência de desenvolvimento |
@@ -76,3 +76,7 @@ npm help <nome do comando>
 - Construir um servidor local utilizando o módulo http do Node.js;
 - Realizar a criação de novas rotas e qual o objetivo das mesmas;
 - Instalação e utilização do nodemon para não ter que reiniciar o servidor a cada alteração.
+
+> Sobre NPM [https://docs.npmjs.com/about-npm]
+> Sobre Express [https://expressjs.com/pt-br/]
+
