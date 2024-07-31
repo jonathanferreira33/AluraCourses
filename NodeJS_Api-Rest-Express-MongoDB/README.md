@@ -80,11 +80,11 @@ npm help <nome do comando>
 > Sobre NPM [https://docs.npmjs.com/about-npm]
 > Sobre Express [https://expressjs.com/pt-br/]
 > Sobre Atribuição via desestruturação (destructuring assignment)[https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment]
-
+> Sobre MongoDB [https://www.mongodb.com/pt-br/docs/] 
 
 #### Nessa aula, você aprendeu:
 
-A instalar o Express e os benefícios de se usar um framework para o desenvolvimento de aplicações Web;
+Ao instalar o Express e os benefícios de se usar um framework para o desenvolvimento de aplicações Web;
 Criar um servidor local usando o Express e configurando-o para escutar requisições em uma porta específica do nosso computador;
 Como estruturar as requisições da API, utilizando corretamente os verbos HTTP e padronizando o endpoint de acordo com o padrão REST;
 Devolver dados como resposta às requisições, usando o padrão JSON;
